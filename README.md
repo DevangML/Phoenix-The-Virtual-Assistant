@@ -8,23 +8,23 @@ This is the repository for Phoenix-The Virtual Assistant
 
 # Modules
 <pre>
-1.	Date:
-2. Time
+1. Tell date
+2. Tell time
 3. Launch app
 4. Open website
-5. Weather
+5. Tell Weather
 6. Wikipedia search
-7. News
-8. Music
+7. Tell News
+8. Play Music
 9. YouTube search
-10. Joke
-11. Location
+10. Tell Joke
+11. Tell location of a place
 12. IP address
 13. Switch window
-14. My location
-15. Screenshot
+14. Tell my location
+15. Take a screenshot
 16. Hide all files
-17. Makr files visible
+17. Make files visible
 18. Calculate
 19. Computational Intelligence
 20. Goodbye/you can sleep now/wake up
