@@ -70,12 +70,12 @@ OpenWeather API
 </pre>
 
 # Installation
-
-    <pre>2. Using python file:<br></br>
-            &emsp;I. Open Final Folder and then do shift-right click; then open command window here.
-            &emsp;II. Create virtual environment and then install all modules from requirements.txt.
-            &emsp;III. Run main.py using this venv.
-    </pre>
+<pre>
+&emsp;1. Open the Folder and then do shift-right click; then open command window here.
+&emsp;2. Create virtual environment and then install all modules from requirements.txt.
+&emsp;3. Also install pyaudio using whl given in repo, or download your own for your specific python version.
+&emsp;3. Run main.py using this venv.
+</pre>
         
 # Thank You
         
