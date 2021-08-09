@@ -5,9 +5,9 @@ This is the repository for Phoenix-The Virtual Assistant
 This is the repository for Pandemic Warrior software
 
 # Main Screen
-<pre align="center">
+<p align="center">
 <img src="images/Output.png" width="350px" height="300px">
-</pre>
+</p>
 # Modules
 1.	Best Practices to prevent COVID-19:
     <pre>In this module we have explained the best practices that are necessary to prevent COVID-19 infection.</pre>
