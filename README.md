@@ -7,6 +7,7 @@ This is the repository for Phoenix-The Virtual Assistant
 </p>
 
 # Modules
+<pre>
 1.	Date:
 2. Time
 3. Launch app
@@ -32,8 +33,7 @@ This is the repository for Phoenix-The Virtual Assistant
 23. Who are you/ Who made you
 24. wish me
 25. Birthday Wishes
-
-
+</pre>
 # Libraries (modules) Used
 <pre>
 PyQt5
