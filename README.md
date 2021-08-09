@@ -54,7 +54,15 @@ future
 pytz
 pickle
 googleapiclient
-
+selenium
+subprocess
+requests
+geopy
+geocoder
+webbrowser
+json
+wikipedia
+urllib
 </pre>
 
 # Installation
