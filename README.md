@@ -36,19 +36,86 @@ This is the repository for Phoenix-The Virtual Assistant
 
 # Libraries (modules) Used
 <pre>
-01. PyQt5
-02. sys
-03. BeautifulSoup
-04. requests
-05. pycountry
-06. plotly
-07. pandas
-08. subprocess
-09. pygame
-10. datetime
-11. time
-12. sqlite3
-13. re
+astroid
+attrs
+autopep8
+beautifulsoup4
+cachetools
+certifi
+chardet
+click
+colorama
+comtypes
+decorator
+flake8
+future
+geocoder
+geographiclib
+geopy
+google-api-core
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
+googleapis-common-protos
+httplib2
+hurry
+hurry.filesize
+idna
+isort
+lazy-object-proxy
+lxml
+mccabe
+more-itertools
+MouseInfo
+numpy
+oauthlib
+Pillow
+pprintpp
+protobuf
+psutil
+pyasn1
+pyasn1-modules
+PyAutoGUI
+pycodestyle
+pyflakes
+PyGetWindow
+pyjokes
+pylint
+PyMsgBox
+pyperclip
+pypiwin32
+PyQt5
+pyqt5-plugins
+PyQt5-sip
+pyqt5-tools
+PyRect
+PyScreeze
+python-dotenv
+pyttsx3
+PyTweening
+pytz
+pywhatkit
+pywin32
+qt5-applications
+qt5-tools
+ratelim
+requests
+requests-oauthlib
+rsa
+selenium
+six
+soupsieve
+SpeechRecognition
+toml
+uritemplate
+urllib3
+wikipedia
+wincertstore
+wolframalpha
+wrapt
+xml-python
+xmltodict
 </pre>
 
 # Installation
