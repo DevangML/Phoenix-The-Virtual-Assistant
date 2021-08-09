@@ -63,6 +63,10 @@ webbrowser
 json
 wikipedia
 urllib
+
+API(s) Used:
+wolfram alpha API
+OpenWeather API
 </pre>
 
 # Installation
